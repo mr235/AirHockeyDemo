@@ -34,8 +34,6 @@ public class TextureHelper {
             return 0;
         }
 
-        System.out.println(bitmap.getWidth() + "x" + bitmap.getHeight());
-
         GLES20.glBindTexture(GLES20.GL_TEXTURE_2D, textureObjectIds[0]);
 
         GLES20.glTexParameteri(GLES20.GL_TEXTURE_2D, GLES20.GL_TEXTURE_MIN_FILTER, GLES20.GL_LINEAR_MIPMAP_LINEAR);

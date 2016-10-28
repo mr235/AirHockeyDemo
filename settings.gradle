@@ -1,2 +1,3 @@
 include ':app', ':airhockey', ':airhockey2', ':airhockeyortho', ':airhockey3d',
-        ':airhockeytextured', ':airhockeywithbettermallets', ':airhockeytouch'
+        ':airhockeytextured', ':airhockeywithbettermallets', ':airhockeytouch',
+        ':particles'

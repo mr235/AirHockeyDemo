@@ -1,3 +1,3 @@
 include ':app', ':airhockey', ':airhockey2', ':airhockeyortho', ':airhockey3d',
         ':airhockeytextured', ':airhockeywithbettermallets', ':airhockeytouch',
-        ':particles', ':skybox', ':heightmap', ':lighting'
+        ':particles', ':skybox', ':heightmap', ':lighting', ':livewallpaper'
